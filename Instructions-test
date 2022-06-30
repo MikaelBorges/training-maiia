@@ -1,0 +1,12 @@
+Le but de l’exercice est simple, ci-joint vous trouverez un fichier html, ses sources et son CSS (accompagné du Sass)
+
+
+Dans ces fichiers vous trouverez :
+
+Des erreurs ! Votre mission, les trouver et les corriger.
+ => Côté html s’assurer qu’il n’y a pas d’erreurs de sémantique, de nommage, d’accessibilité.
+ => Côté CSS s’assurer qu’il n’y a pas de code inutile, de doublons, de mauvais attributs, d’éléments responsive non fonctionnels…
+Des axes d’amélioration : libre à vous de réorganiser, découper ou supprimer les fichiers/morceaux de code si vous jugez qu’une amélioration est possible.
+Une image nommée "A reproduire": à vous de rajouter ce bloc "Team" où vous le souhaitez sur la page,  sans oublier de gérer son rendu responsive et d’utiliser la charte existante pour le créer (les images sources sont fournies dans le dossier image)
+
+Une seule règle, ne pas toucher au style graphique de la page :)
